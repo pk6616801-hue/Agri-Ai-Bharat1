@@ -1,0 +1,6 @@
+{
+  "name": "Agri AI Bharat",
+  "description": "India's Smart Agriculture Platform Powered by AI — Crop Doctor, Mandi Prices, Drone Services, Marketplace & Government Schemes.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
